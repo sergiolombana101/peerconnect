@@ -1,0 +1,12 @@
+<!-- TODO: 
+
+    -- ADDING A NEW SCHEDULE IS USING THE UPDATE ROUTE SOMEHOW --
+    1.Give success message when adding a coach
+    2.Add functionality to view all the coaches scheduled for the week in a weekly calendar
+    1. Add coaches to DB in clockI and other table to make everything work
+    2.Can I add the functionality of checking task you have already completed in the coach side?
+    3.Remove comments from foreach loop in the pie chart section so it loops through all the coaches
+    4.Remove comments on day variable in the view coach function in the controller
+    4.It should log out of the user session when the window is closed. Do this using sessionStorage (might work, might not). 
+
+-->
